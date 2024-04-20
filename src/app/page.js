@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
       <h1 className="text-4xl font-bold">Symptom Checker</h1>
-      <Image src="/symptom.png" width={400} height={400} />
+      <Image src="/symptom.png" alt="logo" width={400} height={400} />
       <p className="text-xl text-center">
         Check your symptoms and see if you need to see a doctor.
       </p>
