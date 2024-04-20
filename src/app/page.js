@@ -8,7 +8,6 @@ export default function Home() {
       <p className="text-xl text-center">
         Check your symptoms and see if you need to see a doctor.
       </p>
-      // genrate a form where a patient Input Fields: Include input fields for
       entering symptoms such as pain level, fatigue, mood, and any additional
       relevant information.
       <form className="flex flex-col items-center justify-between p-24">
